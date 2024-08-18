@@ -35,9 +35,9 @@ A comprehensive Text-based User Interface (TUI) for managing user accounts and g
   - Remove groups from the system with confirmation prompts.
   - Validates group existence before proceeding with deletion.
 - **Modify Group:**
-  - ** change group name **
-  - ** append user to group **
-  - ** remove user from group **
+  - change group name 
+  - append user to group
+  - remove user from group 
 
 ### System Information
 - **List Users:**
